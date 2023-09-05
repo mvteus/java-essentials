@@ -1,6 +1,6 @@
 package com.linuxtips.descomplicandojavaespring;
 
-public class day03 {
+public class Day03 {
     public static void main(String[] args) {
 
         // Byte: valores inteiros ou negativos, 8 bits, máximo 127 e mínimo -128
