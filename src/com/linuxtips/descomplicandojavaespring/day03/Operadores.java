@@ -1,4 +1,4 @@
-package com.linuxtips.descomplicandojavaespring;
+package com.linuxtips.descomplicandojavaespring.day03;
 public class Operadores {
     public static void main(String[] args) {
         // Operador de atribuição
